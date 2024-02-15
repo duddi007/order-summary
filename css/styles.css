@@ -1,0 +1,90 @@
+body{
+    font-family: sans-serif;
+}
+h2{
+    margin-left: 60px;
+}
+h5{
+    margin-left: 80px;
+    position: relative;
+    top: 10px;
+    margin-bottom: 0;
+   
+
+}
+p{
+    margin-left: 7px;
+    font-size:small;
+    text-align: center;
+}
+.back-image{
+    position: absolute;
+    margin-top: 50px ;
+    margin-bottom: 200px;
+    right: 175px;
+    background-color: #dfe8ff;
+    height: 700px;
+}
+.mini-container{
+    position: relative;
+    left: 600px;
+    top: 125px;
+    width: 300px;
+    height: 550px;
+    background-color: #ffffff;
+    
+}
+.hero-img{
+    width: 300px;
+    height: 175px;
+    border-radius: 10px;
+}
+.sub-container{
+    background-color: #f8f9fe;
+    width: 260px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.icon-img{
+    margin-top: 6px;
+    margin-left: 10px;
+    float: left;
+
+}
+.money{
+    margin-right: 90px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.change{
+    margin-left: 175px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    text-decoration: underline;
+    color: blue;
+}
+.btn1 {
+    border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    background: #382ae1;
+    padding: 11px 40px 11px 40px;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 24px;
+    border: none;
+  }
+  
+  .btn:hover {
+    background: #382ae1;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .cancel{
+    margin-top: 30px;
+    font-size: large;
+  }
